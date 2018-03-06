@@ -44,16 +44,3 @@ const pokemonGallery = document.getElementById('pokemon-gallery');
       // This is where you run code if the server returns any errors
       console.log("adios");
   });
-
-
-
-  https://farm1.staticflickr.com/2/1418878_1e92283336_m.jpg
-  https://farm5.staticflickr.com/4610/39726650825_c161356d41.jpg
-farm-id: 1
-server-id: 2
-photo-id: 1418878
-secret: 1e92283336
-size: m
-
-
-{ "id": "39726650825", "owner": "136185422@N06", "secret": "c161356d41", "server": "4610", "farm": 5, "title": "Loarre", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
